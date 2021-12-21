@@ -1,4 +1,4 @@
-- 名称：夜行书生
+- 昵称：夜行书生
 - 职业：区块链开发工程师
 - 擅长：go rust solidity javascript
 - 邮箱：yexingshusheng@aliyun.com
