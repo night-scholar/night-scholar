@@ -1,4 +1,4 @@
-- 昵称：夜行书生
+- 昵称：夜行书生(anduin)
 - 职业：区块链开发工程师
 - 擅长：go rust solidity javascript
 - 博客：https://night-scholar.github.io/
